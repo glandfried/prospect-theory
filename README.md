@@ -25,10 +25,7 @@ However, descriptions of prospect theory often wrongly say that EUT has no refer
 The short-hand confuses some economist into thinking that $u[x(t)]$ and $x(t)$ are irrelevant, and that one can write $E(\delta u)$ as $E[u(\delta x)]$
 But $u(\delta x)$ is not proportinal to $\delta u$, 
 
-![utility-theory-error][utility-theory-error.png]
-
-[utility-theory-error.png]: https://github.com/glandfried/prospect-theory/releases/download/v.0.0.0/utility-theory-error.png
-
+![utility-theory-error][static/utility-theory-error.png]
 
 so the relative order between utility functions is broken. 
 
